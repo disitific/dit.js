@@ -12,7 +12,7 @@ const Dit = require('dit2.js');
 
 const bot = new Dit({
   token: 'YOUR BOT TOKEN',
-  prefix: '!', //<-- Specify a token for your bot
+  prefix: '!', //<-- Specify a prefix for your bot
   commandsFolder: './commands' //<-- Folder where your .dit.js files are located
 });
 
