@@ -1,4 +1,6 @@
 # dit.js 🦥
+[![npm version](https://img.shields.io/npm/v/dit2.js)](https://www.npmjs.com/package/dit2.js)
+
 A library created to build simple discord bots.
 
 ## What is dit.js?
