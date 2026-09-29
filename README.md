@@ -8,7 +8,7 @@ dit.js allows you to use similar syntaxes to create simple discord bots with spe
 Set up your main file `(index.js)`
 
 ```js
-const Dit = require('dit.js');
+const Dit = require('dit2.js');
 
 const bot = new Dit({
   token: 'YOUR BOT TOKEN',

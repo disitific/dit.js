@@ -1,6 +1,6 @@
 {
   "name": "dit2.js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Discord bots, sped up!",
   "main": "index.js",
   "scripts": {
